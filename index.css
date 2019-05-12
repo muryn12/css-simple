@@ -1,0 +1,25 @@
+:root{
+    background-color: black;
+}
+
+h3{
+    background-color: white;
+    text-align: right;
+}
+.one {
+  color: white;
+  background-color: brown;
+  margin: 50px;
+  width: 1250px;
+  height: 20px;
+  text-align: center;
+}
+.two{
+  color: blue;
+  background-color: orange;
+}
+#oneText{
+    color: purple;
+    text-align: center;
+    margin: 50px;
+}
